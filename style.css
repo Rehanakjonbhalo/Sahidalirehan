@@ -643,6 +643,13 @@ a{
     font-size: 2px;
   }
 }
+@media (max-width: 350px) {
+  #center{
+    margin:  15px;
+    margin-top: 150px;
+  }
+}
+
 
 @media (max-width: 450px) {
  #page4{
