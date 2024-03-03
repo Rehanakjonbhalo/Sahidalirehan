@@ -631,6 +631,11 @@ a{
     display: none;
   }
 }
+@media (max-width: 500px) {
+  .page2{
+    height: 200vh;
+  }
+}
 @media (max-width: 600px) {
   .Desume{
     white-space: nowrap; /* Prevent text from wrapping */ 
@@ -668,7 +673,7 @@ a{
   margin: 10px -25px ;
  }
  #page2{
-  height: 140vh;
+  height: 180vh;
  }
 }
 /*Responsiveness*/
